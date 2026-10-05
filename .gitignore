@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/
+venv/
+.venv/
+models/CustomCNN.pth
+models/FoodResNet_feature_extractor.pth
