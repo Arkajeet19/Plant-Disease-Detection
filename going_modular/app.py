@@ -93,7 +93,7 @@ demo = gr.Interface(
         num_top_classes=5,
         label="Plant Disease Prediction",
     ),
-    title="Plant Disease Detection",
+    title="Plant Disease Detection🍃",
     description=(
         "Upload an image of a plant leaf and the EfficientNet-B0 "
         "model will predict the most likely plant disease."
